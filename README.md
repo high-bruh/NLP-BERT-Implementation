@@ -251,12 +251,12 @@ NSP Accuracy on examples: 100.00%
 
 ### Comparison with Requirements
 
-| Requirement | Target | Achieved | Status |
-|-------------|--------|----------|--------|
-| Model trains without errors | Yes | Yes | ✅ |
-| Demonstrates MLM capability | Yes | Yes | ✅ |
-| NSP Accuracy > 60% | 60% | **75.04%** | ✅ **+25%** |
-| Clear documentation | Yes | Yes | ✅ |
+| Requirement | Target | Achieved |
+|-------------|--------|----------|
+| Model trains without errors | Yes | Yes |
+| Demonstrates MLM capability | Yes | Yes |
+| NSP Accuracy > 60% | 60% | **75.04%** |
+| Clear documentation | Yes | Yes |
 
 **All success criteria exceeded!**
 
