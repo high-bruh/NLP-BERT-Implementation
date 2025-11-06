@@ -1,0 +1,86 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+venv*/
+env/
+envs/
+.venv/
+.conda/
+pip-wheel-metadata/
+
+# Packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+
+# Installer / PyInstaller
+*.manifest
+*.spec
+
+
+# Checkpoints
+.checkpoints/
+*.checkpoints
+.checkpoints/*
+checkpoints/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Logs
+logs/
+*.log
+debug.log
+
+# Data, datasets, model artifacts and outputs (common for NLP / ML projects)
+data/
+data_raw/
+data_raw*/
+data_processed/
+datasets/
+models/
+model/
+checkpoints/
+checkpoints*/
+outputs/
+predictions/
+results/
+experiments/
+runs/
+tensorboard/
+tb_logs/
+wandb/
+mlruns/
+artifacts/
+# Common model file extensions
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.h5
+*.hdf5
+*.model
+*.onnx
+*.tflite
+
+# Caches
+.cache/
+cache/
+__MACOSX/
+
+# Hugging Face / transformers caches (local directories sometimes created)
+transformers_cache/
+hf_cache/
+
