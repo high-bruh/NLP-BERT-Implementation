@@ -283,8 +283,8 @@ mini-bert/
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd mini-bert
+git clone https://github.com/high-bruh/NLP-BERT-Implementation.git
+cd NLP-BERT_Implementation
 
 # Install required packages
 pip install -r requirements.txt
